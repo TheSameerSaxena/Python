@@ -10,4 +10,4 @@ for i in number:
     output = ""
     for item in range(i):
         output += '*'
-    print(output)
+    print(output) 
