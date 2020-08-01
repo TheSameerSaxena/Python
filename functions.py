@@ -10,4 +10,4 @@ hrs = float(input("Enter Hours:"))
 rphrs = float(input("Enter rate per hour:"))
 
 p = computepay(hrs, rphrs)
-print('Pay ' + str(p))
+print('Pay ' + str(p)) 
