@@ -15,4 +15,4 @@ for i in my_list:
 if odd == 1:
     print("The List contains ODD value(s), therefore: FALSE")
 else:
-    print("The List contains all EVEN values, therefore: TRUE")
+    print("The List contains all EVEN values, therefore: TRUE") 
