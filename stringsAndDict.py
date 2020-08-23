@@ -1,7 +1,7 @@
 llist = list()
-fhand = input("Enter a string: ")
-line = fhand.split()
-for word in line:
+string = input("Enter a string: ")
+words = string.split()
+for word in words:
     llist.append(word)
 
 dik = dict()
